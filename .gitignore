@@ -1,3 +1,4 @@
 .idea
 db_backups/**
+!db_backups/README.md
 www/netcmdb-loc.rs.ru
