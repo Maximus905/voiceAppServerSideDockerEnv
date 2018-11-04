@@ -1,0 +1,1 @@
+Add folder  www/netcmdb-loc.rs.ru for project content. This folder is set as root for site netcmdb-loc.rs.ru (see file conf\nginx\sites-enabled\netcmdb-loc.rs.ru.conf)
